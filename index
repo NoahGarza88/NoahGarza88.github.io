@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noah's Assignments</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .shelf {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .assignment {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px;
+            width: 200px;
+            text-align: center;
+        }
+        .assignment img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Assignments</h1>
+    <div class="shelf">
+        <div class="assignment">
+            <h2>My Main Portfolio Page</h2>
+            <a href="https://github.com/NoahGarza88/NoahGarza88.github.io"><img src="image-link-1.jpg" alt="Assignment 1"></a>
+    </div>
+</body>
+</html>
