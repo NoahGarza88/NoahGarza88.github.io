@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Noah's Home Page
 description: Bookmark this page to keep an eye on my project updates!
 
-[Checkpoint 1 - Software Design and Engineering]()
+[Checkpoint 1 - Software Design and Engineering](https://github.com/NoahGarza88/NoahGarza88.github.io/tree/main/Category%20One%20-%20Software%20Design%20and%20Engineering)
 
