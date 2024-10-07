@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_prompt"> Settings</string>
+    <string name="enable_permission">Enable all notifications ?</string>
+    <string name="enable_calendar"> Enable access to calendar ?</string>
+    <string name="enable_contacts"> Enable access to contacts ?</string>
+    <string name="request_prompt"> Grant permission to receive notifications?</string>
+</resources>
