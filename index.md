@@ -5,7 +5,7 @@ My coursework provided a strong foundation in data structures and algorithms, cr
 In database work, I explored techniques to optimize data management and security. My Android Application Database (DBHelper) project involved implementing security measures and improving data validation processes, highlighting the importance of security practices throughout the software development lifecycle. Each artifact in my ePortfolio showcases not only my technical skills but also my commitment to professional growth. The enhancements I made demonstrate my ability to adapt and respond to feedback, equipping me with a comprehensive understanding of the computer science field and preparing me for future challenges.<br>
 As I transition into my professional career, I am eager to apply the knowledge and skills I have acquired, contributing to innovative solutions and promoting collaboration within the industry.
 
-**These pages showcase my progress through the class of CS-499 Computer Science Capstone.**<br>
+**These pages below showcase my progress through the class of CS-499 Computer Science Capstone.**<br>
 
 
 ## Please see my Final Artifects below:<br>
