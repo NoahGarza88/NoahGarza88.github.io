@@ -5,6 +5,7 @@ Throughout the program, I engaged in various collaborative projects, enhancing m
 My coursework provided a strong foundation in:<br>
 
 **-Data Structures and Algorithms:** Crucial for optimizing performance in software development. Implementing a binary tree for managing course information demonstrated my capability to use appropriate data structures to solve specific problems.<br>
+
 **-Software Engineering Principles:** I embraced these principles by enhancing projects through iterative design and code reviews, ensuring I deliver high-quality solutions that meet user needs.<br>
 
 In database work, I explored techniques to optimize data management and security. My **Android Application Database (DBHelper)** project involved:<br>
