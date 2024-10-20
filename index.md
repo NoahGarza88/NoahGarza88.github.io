@@ -1,6 +1,6 @@
 # Welcome to my Github page!📖<br>
 ### Professional Self-Assessment<br>
-Throughout the program, I engaged in various collaborative projects, enhancing my ability to work effectively in team environments. Clear communication with stakeholders has been essential, whether discussing project requirements or delivering updates. For example, during my Unit Testing Project, I collaborated with peers to identify testing strategies, refining our software and improving our understanding of effective software engineering practices.<br>
+Throughout the program, I independently tackled various projects, enhancing my ability to research and adapt to different challenges. Clear communication with stakeholders has been essential, whether discussing project requirements or delivering updates. For example, during my Unit Testing Project, I explored testing strategies to refine software functionality and deepen my understanding of effective software engineering practices.<br>
 
 My coursework provided a strong foundation in:<br>
 
