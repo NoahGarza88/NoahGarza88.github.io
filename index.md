@@ -4,14 +4,14 @@ Throughout the program, I engaged in various collaborative projects, enhancing m
 
 My coursework provided a strong foundation in:<br>
 
-** *Data Structures and Algorithms:** Crucial for optimizing performance in software development. Implementing a binary tree for managing course information demonstrated my capability to use appropriate data structures to solve specific problems.<br>
+***Data Structures and Algorithms:** Crucial for optimizing performance in software development. Implementing a binary tree for managing course information demonstrated my capability to use appropriate data structures to solve specific problems.<br>
 
-** *Software Engineering Principles:** I embraced these principles by enhancing projects through iterative design and code reviews, ensuring I deliver high-quality solutions that meet user needs.<br>
+***Software Engineering Principles:** I embraced these principles by enhancing projects through iterative design and code reviews, ensuring I deliver high-quality solutions that meet user needs.<br>
 
 In database work, I explored techniques to optimize data management and security. My **Android Application Database (DBHelper)** project involved:<br>
 
-** *Implementing security measures**<br>
-** *Improving data validation processes**<br>
+***Implementing security measures**<br>
+***Improving data validation processes**<br>
 
 This experience highlighted the importance of security practices throughout the software development lifecycle. Each artifact in my ePortfolio showcases not only my technical skills but also my commitment to professional growth. The enhancements I made demonstrate my ability to adapt and respond to feedback, equipping me with a comprehensive understanding of the computer science field and preparing me for future challenges.<br>
 
