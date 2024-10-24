@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SlimStart</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+
+    <string name="Login">Login</string>
+    <string name="Password">Password</string>
+    <string name="account_create">Create Account</string>
+
+    <string name="add_data">Add Data</string>
+    <string name="delete_data">Delete</string>
+    <string name="daily_weight">Daily Weight:</string>
+    <string name="dates">Date:</string>
+</resources>
